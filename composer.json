@@ -1,0 +1,9 @@
+{
+  "name": "etdsolutions/TableDnd",
+  "description": "Shim repository for TableDnd",
+  "homepage": "https://github.com/isocra/TableDnD",
+  "license": "MIT",
+  "require": {
+    "etdsolutions/jquery": ">=1.7.0"
+  }
+}
